@@ -1,7 +1,7 @@
 name: EWI
 favicon: null
-layout_spectrum: 0.06020160857588053
-typography_spectrum: 0.1292038660030812
+layout_spectrum: 1
+typography_spectrum: 0.75048
 cta:
   domain: null
   bucket: null
