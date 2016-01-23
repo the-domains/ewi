@@ -1,0 +1,28 @@
+name: EWI
+favicon: null
+layout_spectrum: 0.06020160857588053
+typography_spectrum: 0.1292038660030812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8183498647995293
+  lightness: 0.6380610240157694
+  saturation: 0.24756184918805957
+  rhythmicContrast: 0.8160983615089208
+purpose: []
