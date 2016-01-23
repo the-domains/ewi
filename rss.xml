@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EWI]]></title>
+        <description><![CDATA[EWI]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 21:46:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>
+"TO EFFECT CHANGE BY ADVANCING COMPANIES AND PEOPLE TO THE NEXT LEVEL"
+
+
+The Ways We Do This: 
+
+With honesty, by outreach, by being excellent at what we do, by tackling the hardest 10%, through coaching and mentoring. We go deep but we do it with a lightheartedness that makes the process fun and inviting. We cherish the opportunity to highlight good in others, defend others, and assist in the development and progress of others.</p>]]></description>
+            <link>undefinedc4120140-91a4-4257-a113-a0fb291b8c93/index.html</link>
+            <guid isPermaLink="false">c4120140-91a4-4257-a113-a0fb291b8c93</guid>
+            <pubDate>Sat, 23 Jan 2016 21:46:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
